@@ -28,8 +28,8 @@ The dataset contains 77,324 insurance policies with the following columns:
 ## Usage
 Clone the repo
 ```
-git clone https://github.com/Shegun93/admiral.git
-cd admiral
+git clone https://github.com/adegoke655/Insurance.git
+cd Insurance
 ```
 install requirement
 ```
