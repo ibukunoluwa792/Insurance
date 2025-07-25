@@ -1,6 +1,6 @@
 ## Admiral Insurance Claims Analysis
 Overview
-This Jupyter notebook contains an analysis of auto insurance policy data from Admiral Insurance. The dataset includes information about policyholders, vehicle details, claims history, and other relevant factors that could help in identifying patterns related to insurance claims.
+This Jupyter notebooks contains an analysis of auto insurance policy data from Admiral Insurance. The dataset includes information about policyholders, vehicle details, claims history, and other relevant factors that could help in identifying patterns related to insurance claims.
 
 ## Dataset Description
 The dataset contains 77,324 insurance policies with the following columns:
