@@ -7,7 +7,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 
 1. PolicyID: Unique identifier for each policy holders.
 2. State: State where the policyholder resides 
-3. Coverage Gap: Indicates if there was a gap in coverage
+3. Coverage Gap: Indicates if there was a gap in coverage or not
 4. CreditScore: Credit score of the policyholders
 5. Age: Age of the policyholder
 6. NumberOfVehicles: Number of vehicles covered under the policy
