@@ -9,7 +9,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 2. State: State where the policyholder resides 
 3. Coverage Gap: Indicates if there was a gap in coverage or not
 4. CreditScore: Credit score of the policyholders
-5. Age: Age of the policyholder
+5. Age: Age of the policyholders
 6. NumberOfVehicles: Number of vehicles covered under the policy
 7. NewestVehicleAge: Age of the newest vehicle in the policy
 8. PriorAccidentCount: The Number of prior accidents
