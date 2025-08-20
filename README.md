@@ -23,7 +23,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 2. Missing Value Analysis: Identification and discussions of missing data in key columns
 3. Target Variable Analysis: Examination of the claim flag distribution (only 6.99% of policies had claims)
 4. Statistical Summaries: Calculations of key statistics for numerical variables
-5. Data Quality Assessment: Professional opinion on data cleaning approaches
+5. Data Quality Assessments: Professional opinion on data cleaning approaches
 
 ## Usage
 Clone the repo
