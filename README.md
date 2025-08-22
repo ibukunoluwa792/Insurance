@@ -5,7 +5,7 @@ This Jupyter notebook contains an analysis of auto insurance policy data from Ad
 ## Dataset Description
 The dataset contains 77,324 insurance policies with the following columns:
 
-1. PolicyID: Unique identifier for each policy holder.
+1. PolicyID: Unique identifier for each policy holders.
 2. State: State where the policyholder resides 
 3. Coverage Gap: Indicates if there was a gap in coverage or not
 4. CreditScore: Credit score of the policyholder
