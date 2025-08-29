@@ -6,7 +6,7 @@ This Jupyter notebook contains an analysis of auto insurance policy data from Ad
 The dataset contains 77,324 insurance policies with the following columns:
 
 1. PolicyID: Unique identifier for each policy holders.
-2. State: State where the policyholder resides 
+2. State: State where the policyholders resides 
 3. Coverage Gap: Indicates if there was a gap in coverage or not
 4. CreditScore: Credit score of the policyholder
 5. Age: Age of the policyholders
@@ -19,7 +19,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 12. ClaimFlag: Binary flag indicating whether a claim was made (1) or not (0)
 
 # Key Features
-1. Data Exploration: Initial examination of the dataset structure and basic statistics.
+1. Data Exploration: Initial examination of the dataset structure and basic statistics
 2. Missing Value Analysis: Identification and discussions of missing data in key columns
 3. Target Variable Analysis: Examination of the claim flag distribution (only 6.99% of policies had claims)
 4. Statistical Summaries: Calculations of key statistics for numerical variables
