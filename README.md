@@ -17,7 +17,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 10. TimeInsured: Duration the policy has been active
 11. ClaimAmount: Amount claimed (0 if no claim)
 12. ClaimFlag: Binary flag indicating whether a claim was made (1) or not (0)
-
+13. 
 # Key Features
 1. Data Exploration: Initial examination of the dataset structure and basic statistics
 2. Missing Value Analysis: Identification and discussions of missing data in key columns
