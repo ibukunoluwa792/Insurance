@@ -19,7 +19,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 12. ClaimFlag: Binary flag indicating whether a claim was made (1) or not (0)
 
 # Key Features
-1. Data Exploration: Initial examination of the dataset structure and basic statistics
+1. Data Exploration: Initial examination of the dataset structure and basic statistics 
 2. Missing Value Analysis: Identification and discussions of missing data in key columns
 3. Target Variable Analysis: Examination of the claim flag distribution (only 6.99% of policies had claims)
 4. Statistical Summaries: Calculations of key statistics for numerical variables
