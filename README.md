@@ -8,7 +8,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 1. PolicyID: Unique identifier for each policy holders
 2. State: State where the policyholders resides
 3. Coverage Gap: Indicates if there was a gap in coverage or not
-4. CreditScore: Credit score of the policyholder
+4. CreditScore: Credit score of the policyholder 
 5. Age: Age of the policyholders
 6. NumberOfVehicles: Number of vehicles covered under the policy
 7. NewestVehicleAge: Age of the newest vehicle in the policy
@@ -23,7 +23,7 @@ The dataset contains 77,324 insurance policies with the following columns:
 2. Missing Value Analysis: Identification and discussions of missing data in key columns
 3. Target Variable Analysis: Examination of the claim flag distribution (only 6.99% of policies had claims)
 4. Statistical Summaries: Calculations of key statistics for numerical variables
-5. Data Quality Assessments: Professional opinion on data cleaning approaches
+5. Data Quality Assessments: Professional opinion on data cleaning approaches 
 
 ## Usage
 Clone the repo
